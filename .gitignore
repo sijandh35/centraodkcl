@@ -3,3 +3,7 @@
 *.swo
 /.env
 /version.txt
+/docker-compose.yml
+/nginx.dockerfile
+/secrets.dockerfile
+/service.dockerfile
